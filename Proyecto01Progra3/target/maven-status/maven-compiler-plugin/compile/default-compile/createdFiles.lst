@@ -1,0 +1,10 @@
+daos\PersistenciaPacientes.class
+gui\FrmPaciente$4.class
+gui\FrmPaciente$2.class
+gui\FrmPaciente$SeleccionTablaListener.class
+gui\FrmPaciente.class
+gui\FrmPaciente$3.class
+interfaces\IPersistenciaFachada.class
+objetosNegocio\Paciente.class
+persistencia\PersistenciaFachada.class
+gui\FrmPaciente$1.class
